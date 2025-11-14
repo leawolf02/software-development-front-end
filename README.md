@@ -2,7 +2,7 @@
 
 A festive web application designed to encourage donations during the holiday season. This project allows users to learn about different donation opportunities. Responsive design allows users to access the site on both desktop and mobile devices.
 
-**How the weboage works**
+**How the webpage works**
 
 On the top of the webpage, you will find the navigation bar, where you can access our contact information or read inspiring donor and recipient stories.
 
